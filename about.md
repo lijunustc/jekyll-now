@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-程序员的能力，主要取决在实现及设计算法的能力
+程序员的能力，主要体现在设计及实现算法
 
 ### Contact me
 
