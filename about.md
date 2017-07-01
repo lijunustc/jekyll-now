@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一个很闲的人
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+程序员的能力，主要取决在实现及设计算法的能力
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lj6@mail.ustc.edu.cn](mailto:email@domain.com)
